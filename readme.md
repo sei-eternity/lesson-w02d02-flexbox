@@ -21,4 +21,5 @@ By the end of this class, you will:
 
 * Slide deck in [Keynote](GA-FEWD-lesson-flexbox.key) or [PDF](GA-FEWD-lesson-flexbox.pdf)
 * Flexbox Froggy, good way to learn flexbox and get practice [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
 * CSS-Tricks Flexbox reference [CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
